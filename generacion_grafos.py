@@ -195,7 +195,7 @@ class GeneradorGrafos:
 
 
 #* ==========================================
-#* RUTINA PRINCIPAL DE EJECUCIÓN
+#* RUTINA DE EJECUCIÓN
 #* ==========================================
 if __name__ == "__main__":
     tamanos = [50, 200, 500]
